@@ -6,6 +6,10 @@ menubar_toc: true
 toc_title: Navigation
 ---
 
+{% include notification.html message="This is a concept build, nothing is finalised yet." 
+status="is-danger" 
+icon="fas fa-exclamation-triangle" %}
+
 This is the self-hosted machine that I plan to build, which will be running [Fedora Server](https://getfedora.org/en/server/).
 
 ## Services
