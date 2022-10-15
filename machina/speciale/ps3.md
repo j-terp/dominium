@@ -18,3 +18,7 @@ The tool used is bguerville's PS3 Toolset at [ps3xploit](https://ps3xploit.me/)
 ## Specifications
 
     System Version: 4.89
+
+## Games
+
+[A comprehensive list of games](../../games/ps3/) is documented at `/games/ps3`.
