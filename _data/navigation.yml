@@ -1,7 +1,17 @@
 - name: Devices
   link: /devices/
   dropdown:
+    - name: agilnotitia
+      link: /devices/agilnotitia
     - name: nebulosum
       link: /devices/nebulosum/
+    - name: oblectoquies
+      link: /devices/oblectoquies/
     - name: opuslibri
       link: /devices/opuslibri/
+    - name: palmarium
+      link: /devices/palmarium/
+    - name: Nintendo Switch
+      link: /devices/switch/
+    - name: PlayStation 3
+      link: /devices/ps3/
