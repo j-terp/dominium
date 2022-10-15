@@ -15,3 +15,10 @@
       link: /devices/switch/
     - name: PlayStation 3
       link: /devices/ps3/
+- name: Games
+  link: /games/
+  dropdown:
+    - name: PS3
+      link: /games/ps3/
+    - name: Switch
+      link: /games/switch/
