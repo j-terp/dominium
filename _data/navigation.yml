@@ -1,0 +1,7 @@
+- name: Devices
+  link: /devices/
+  dropdown:
+    - name: nebulosum
+      link: /devices/nebulosum/
+    - name: opuslibri
+      link: /devices/opuslibri/

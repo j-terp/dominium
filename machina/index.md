@@ -1,4 +1,8 @@
-# Devices
+---
+layout: page
+title: Devices
+permalink: /devices/
+---
 
 ## Personal Devices
 
@@ -6,7 +10,7 @@
 
     Laptop for study and work
 
-- [nebulosum](./personale/nebulosum/)
+- [nebulosum](./nebulosum/)
 
     Self-hosted server
 
