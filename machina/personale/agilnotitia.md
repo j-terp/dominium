@@ -1,9 +1,29 @@
 ---
 layout: page
 title: agilinotitia
-permalink: devices/agilinoticia/
+permalink: devices/agilnotitia/
 menubar_toc: true
 toc_title: Navigation
 ---
 
 This is my device that I use on the move, to keep me updated throughout the day.
+
+## Applications
+
+Applications that can not be found on the Play Store, but are necessary for my day-to-day.
+
+- Feeder
+- ForgetMeNot
+- Gadgetbridge
+- Markor
+- Nihonoari
+- Openreads
+- Organic Maps
+
+## Specifications
+
+    OS: OxygenOS
+    Host: OnePlus Nord2 5G
+    Android: 11
+    Launcher: Niagara
+    CPU: Dimensity 1200-AI (8)
