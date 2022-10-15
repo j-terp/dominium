@@ -1,0 +1,41 @@
+---
+layout: page
+title: PS3 Games
+permalink: games/ps3/
+---
+
+- Atelier Totori™: The Adventures of Arland
+- Bakugan: Battle Brawlers
+- Ducktales: Remastered
+- Final Fantasy X/X-2: HD Remaster
+- G-Force
+- The Jak and Daxter Trilogy
+- Kingdom Hearts -HD 1.5 ReMIX-
+- Kingdom Hearts -HD 2.5 ReMIX-
+- Lego Batman 3: Beyond Gotham
+- Lego The Lego Movie: Videogame
+- Lego Marvel Super Heroes
+- Lego Hobbit
+- Lego Lord of the Rings
+- LittleBigPlanet™
+- LittleBigPlanet™ 2
+- LittleBigPlanet™ 3
+- Marvel Super Hero Squad: The Infinity Gauntlet
+- Minecraft: PlayStation®3 Edition
+- ONE PIECE Unlimited World Red
+- PlayStation® All-Stars Battle Royale
+- The Ratchet & Clank™ Trilogy
+- Ratchet & Clank: Tools of Destruction
+- Ratchet & Clank™: Quest for Booty
+- Ratchet & Clank: A Crack in Time™
+- Ratchet & Clank™: all 4 One
+- Ratchet & Clank™: QForce
+- Ratchet & Clank™: Nexus
+- Shrek: Forever After
+- The Sly Trilogy
+- Sly Cooper: Thieves in Time™
+- Sonic & Sega All-Stars Racing™
+- Uncharted: Drake's Fortune™
+- Uncharted 2: Among Thieves™
+- Uncharted 3: Drake's Deception™
+- Disney Universe
