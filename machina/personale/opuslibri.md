@@ -34,3 +34,7 @@ This is my device that I use for my studies and work related activities, which i
     WM: KWin (Wayland)
     CPU: 11th Gen Intel Core i7-1165G7 (8) 4.7GHz
     GPU: Intel Iris Xe Graphics
+
+{% include tag.html tag="Laptop" %}
+{% include tag.html tag="Graphic" %}
+{% include tag.html tag="Office" %}

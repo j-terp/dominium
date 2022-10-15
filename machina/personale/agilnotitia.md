@@ -27,3 +27,7 @@ Applications that can not be found on the Play Store, but are necessary for my d
     Android: 11
     Launcher: Niagara
     CPU: Dimensity 1200-AI (8)
+
+{% include tag.html tag="Smartphone" %}
+{% include tag.html tag="Reading" %}
+{% include tag.html tag="Travelling" %}

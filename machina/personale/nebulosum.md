@@ -33,3 +33,7 @@ If add-ons is a requirement, a vm will be a preferred for installation, else a D
 ## Specifications
 
 The specifications are still undecided.
+
+{% include tag.html tag="Server" %}
+{% include tag.html tag="Hosting" %}
+{% include tag.html tag="Streaming" %}

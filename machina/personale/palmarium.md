@@ -23,3 +23,7 @@ This device is my main system, mainly used for gaming and computational tasks.
     WM: Explorer
     CPU: Intel i5-10400F (12) @ 2.910GHz
     GPU: NVIDIA GeForce GTX 1660 SUPER GPU
+
+{% include tag.html tag="Desktop" %}
+{% include tag.html tag="Gaming" %}
+{% include tag.html tag="Computation" %}

@@ -25,3 +25,7 @@ message="**Note**: The current device is due for a replacement." %}
     Android: 6.0.1
     Launcher: Niagara
     CPU: Krait 200 (4)
+
+{% include tag.html tag="Tablet" %}
+{% include tag.html tag="Management" %}
+{% include tag.html tag="Entertainment" %}
