@@ -263,7 +263,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  bulma-clean-theme
+  bulma-clean-theme (~> 0.13.1)
   github-pages (~> 227)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
