@@ -16,7 +16,7 @@ message="**Note**: Jail-break exploit has not been used yet, due to the online t
 The tool used is bguerville's PS3 Toolset at [ps3xploit](https://ps3xploit.me/)
 ## Games
 
-[A comprehensive list of games](../../games/ps3/) is documented at `/games/ps3`.
+[A comprehensive list of games](../../list/games/) on the PS3, is documented with <i class="fab fa-playstation">.
 
 ## Specifications
 

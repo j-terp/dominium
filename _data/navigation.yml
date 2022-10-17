@@ -15,10 +15,8 @@
       link: /devices/switch/
     - name: PlayStation 3
       link: /devices/ps3/
-- name: Games
-  link: /games/
+- name: Lists
+  link: /lists/
   dropdown:
-    - name: PS3
-      link: /games/ps3/
-    - name: Switch
-      link: /games/switch/
+    - name: Games List
+      link: /list/games/
