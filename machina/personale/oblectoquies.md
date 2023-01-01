@@ -17,14 +17,10 @@ This is my device that will be used primarily for entertainment.
 
 ## Specifications
 
-{% include notification.html 
-message="**Note**: The current device is due for a replacement." %}
-
-    OS: Android
-    Host: Nexus 7
-    Android: 6.0.1
-    Launcher: Niagara
-    CPU: Krait 200 (4)
+    OS: Android 12
+    Host: Lenovo TB125FU
+    DE: Niagara
+    CPU: MediaTek G80
 
 {% include tag.html tag="Tablet" %}
 {% include tag.html tag="Management" %}

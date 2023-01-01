@@ -22,11 +22,10 @@ Applications that can not be found on the Play Store, but are necessary for my d
 
 ## Specifications
 
-    OS: OxygenOS
+    OS: OxygenOS 12.1
     Host: OnePlus Nord2 5G
-    Android: 11
-    Launcher: Niagara
-    CPU: Dimensity 1200-AI (8)
+    DE: Niagara
+    CPU: Dimensity 1200-AI
 
 {% include tag.html tag="Smartphone" %}
 {% include tag.html tag="Reading" %}
