@@ -14,7 +14,7 @@ This is the self-hosted machine that I plan to build, which will be running [Fed
 
 ## Services
 
-The services that `nebulosum` will host for the local devices to utilise.
+The services that will be hosted on the device.
 
 ### Jellyfin
 
@@ -23,8 +23,12 @@ Currently, there exists an error with the Jellyfin systemctl service for Fedora,
 
 ### Home Assistant
 
-[Home Assistant](https://home-assistant.io) will be used to automate and control home devices, such as lights.
+[Home Assistant](https://home-assistant.io) will be used to automate and control home devices, such as lights and electricity meter.
 If add-ons is a requirement, a vm will be a preferred for installation, else a Docker image.
+
+### Kavita
+
+Kavita will be used for local access to digital reading, being with only through a web interface. Will be using a Docker Image for easier update.
 
 ### Minecraft Server Manager
 

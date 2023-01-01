@@ -12,7 +12,10 @@ This is my device that will be used primarily for entertainment.
 
 - Home Assistant
 - Jellyfin
+  - Findroid
+  - Finamp
 - Newpipe
+- Openreads
 - Tachiyomi
 
 ## Specifications

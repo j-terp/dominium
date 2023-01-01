@@ -14,10 +14,8 @@ Applications that can not be found on the Play Store, but are necessary for my d
 
 - Feeder
 - ForgetMeNot
-- Gadgetbridge
 - Markor
 - Nihonoari
-- Openreads
 - Organic Maps
 
 ## Specifications
