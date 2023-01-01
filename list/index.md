@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lists
-permalink: /lists/
+permalink: /list/
 menubar_toc: true
 toc_title: Navigation
 ---
