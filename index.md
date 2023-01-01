@@ -16,4 +16,4 @@ This is an online log book for the devices, games, etc., that I possess and own.
 
 ## Games
 
-Since I collect games in different varieties, there are [comprehensive lists for each platform](./games/) to look-up.
+Since I collect games in different varieties, there are [comprehensive lists for each platform](./list/games/) to look-up.
